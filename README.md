@@ -1,8 +1,6 @@
 # Background
 
-A React based responsive e-commerce web application using [Commerce.js](https://commercejs.com/), [Stripe](https://stripe.com/en-gb-ca), Material-UI & React-hook-form. This application contains Home Page with Products Listing, Cart Page and Checkout Form. Stripe is integrated as the payment gateway.
-
-Main purpose of the project was to become more familiar with React.js and develop Front-end skills.
+A React based responsive e-commerce web application using [Commerce.js](https://commercejs.com/), [Stripe](https://stripe.com/en-gb-ca), Material-UI & React-hook-form. This application contains Home Page with Products Listing, Cart Page and Checkout Form. Stripe is integrated as the payment gateway. Main purpose of the project was to become more familiar with React.js and develop Front-end skills.
 
 # Project Screenshots
 
@@ -23,7 +21,7 @@ Main purpose of the project was to become more familiar with React.js and develo
 
 # Prerequisites
 
-Make sure you setup your account and get your keys from [Commerce.js](https://commercejs.com/), Enable Stripe as the gateway from the dashboard and integrate keys with the application. To make Stripe work and start receiving payments, You can follow this [tutorial](https://www.youtube.com/watch?v=377AQ0y6LPA). Thanks to [JavaScriptMastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A) for the tutorial! Run 'npm install' before running it locally.
+Make sure you setup your account and get your keys from [Commerce.js](https://commercejs.com/), Enable Stripe as the gateway from the dashboard and integrate keys with the application. To make Stripe work and start receiving payments, you can follow this [tutorial](https://www.youtube.com/watch?v=377AQ0y6LPA). Thanks to [JavaScriptMastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A) for the tutorial! Run 'npm install' before running it locally.
 
 # Getting Started with Create React App
 
