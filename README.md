@@ -1,3 +1,30 @@
+# Background
+
+A React based responsive e-commerce web application using [Commerce.js](https://commercejs.com/), [Stripe](https://stripe.com/en-gb-ca), Material-UI & React-hook-form. This application contains Home Page with Products Listing, Cart Page and Checkout Form. Stripe is integrated as the payment gateway.
+
+Main purpose of the project was to become more familiar with React.js and develop Front-end skills.
+
+# Project Screenshots
+
+![](screenshots/screenshot-one.jpg)
+![](screenshots/screenshot-two.jpg)
+![](screenshots/screenshot-three.jpg)
+![](screenshots/screenshot-four.jpg)
+![](screenshots/screenshot-five.jpg)
+![](screenshots/screenshot-six.jpg)
+
+# Built With:
+
+1. React: A declarative, efficient, and flexible JavaScript library for building user interfaces.
+2. Commerce.js: A Powerful API to build and control e-commerce platform.
+3. Stripe: Payment gateway and API to accept payments, send payouts.
+4. Material-UI: An open-source project that features React components that implement Google's Material Design.
+5. React-hook-form: Performant, flexible and extensible forms with easy-to-use validation.
+
+# Prerequisites
+
+Make sure you setup your account and get your keys from [Commerce.js](https://commercejs.com/), Enable Stripe as the gateway from the dashboard and integrate keys with the application. To make Stripe work and start receiving payments, You can follow this [tutorial](https://www.youtube.com/watch?v=377AQ0y6LPA). Thanks to [JavaScriptMastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A) for the tutorial! Run 'npm install' before running it locally.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
